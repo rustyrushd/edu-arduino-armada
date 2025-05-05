@@ -4,7 +4,8 @@
   to pin 13 and the built in LED should blink in sync. 
 */
 
-const int RED = 13; // this is a better way to label pins
+// labelling pins as constants make them much easier to work with
+const int RED = 13; 
 
 void setup() {
   pinMode(RED, OUTPUT);
