@@ -7,7 +7,7 @@
 
 // setup() runs once when the board is powered
 void setup() {
-  pinMode(LED_BUILTIN, OUTPUT); // initialize pin LED_BUILTIN (13) as an output
+  pinMode(LED_BUILTIN, OUTPUT); // initialize LED_BUILTIN (pin 13) as an output
 }
 
 // loop() runs continuously until power 
