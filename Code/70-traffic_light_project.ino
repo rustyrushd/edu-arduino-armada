@@ -34,7 +34,6 @@ void lightSequence() {
   digitalWrite(PED_RED, LOW);
   digitalWrite(PED_GREEN, HIGH);
   buzzer();
-  //delay(4000);
   digitalWrite(PED_GREEN, LOW);
   digitalWrite(PED_RED, HIGH);
   digitalWrite(RED, LOW);
