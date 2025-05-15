@@ -21,7 +21,6 @@ This example code is in the public domain.
  #define NOTE_B3  247
  #define NOTE_C4  262
  
- 
  // notes in the melody:
  int melody[] = {
    NOTE_C4, NOTE_G3, NOTE_G3, NOTE_A3, NOTE_G3, 0, NOTE_B3, NOTE_C4
