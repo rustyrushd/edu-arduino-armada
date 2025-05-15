@@ -1,6 +1,5 @@
 // buzzer plays if switch is pressed
 
-
 const int SW = 2;
 const int BZR = 8;
 
