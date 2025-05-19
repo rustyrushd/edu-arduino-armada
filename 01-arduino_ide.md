@@ -4,7 +4,7 @@ TLDR
 
 [Click here to download Arduino IDE 1.8.18 (Windows ZIP file for non admin install).](https://downloads.arduino.cc/arduino-1.8.18-windows.zip)
 
-Download, extract, create `portable` folder, check COM port, copy paste blink code, click `Upload` (not Verify).
+Download, extract, create `portable` folder, plug in Arduino, check COM port, copy paste [blink](Code/01-blink_builtin.ino) code, click `Upload` (not Verify), builtin LED blinks.
 
 ---
 
